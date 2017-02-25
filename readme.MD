@@ -1,8 +1,4 @@
-Angular 2 Fundamentals Course
-========================
-This is the getting started package for the Pluralsight course on Angular 2 Fundamentals found here: http://app.pluralsight.com/courses/angular2-fundamentals
+My code from from the Angular 2 Fundamentals Course
 
-**Course Status**
 
-The course is currently up-to-date.
 
